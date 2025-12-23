@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TEAM",
+  "base_artist": "Yung sticky wom",
+  "createdAt": "2025-12-23T12:57:17.585723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Demo Team",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/01_Demo_Team_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Demo Team",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Demo_Team_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A-Team (You Ain't Safe)",
+      "artist": "Lil Yachty feat. Lil Keed & Zaytoven",
+      "has_synced": true,
+      "path": "select/03_A-Team_(You_Ain't_Safe)_Lil_Yachty_feat._Lil_Keed_&_Zaytoven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A-Team (You Ain't Safe)",
+      "artist": "Lil Keed, Lil Yachty & ZAYTOVEN",
+      "has_synced": true,
+      "path": "select/04_A-Team_(You_Ain't_Safe)_Lil_Keed,_Lil_Yachty_&_ZAYTOVEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Team",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/05_Team_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Team Rocket",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/06_Team_Rocket_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight City (Team Ghost Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/07_Midnight_City_(Team_Ghost_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Midnight City (Team Ghost Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/08_Midnight_City_(Team_Ghost_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Team",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/09_My_Team_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teardrop - Scream Team Remix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Teardrop_-_Scream_Team_Remix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teardrop (Scream Team Remix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/11_Teardrop_(Scream_Team_Remix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tracy - Kid Loco's Playing With the Young Team Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/12_Tracy_-_Kid_Loco's_Playing_With_the_Young_Team_Remix_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tracy (Kid Loco's Playing with the Young Team Remix)",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/13_Tracy_(Kid_Loco's_Playing_with_the_Young_Team_Remix)_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are Not a Football Team",
+      "artist": "Minus the Bear",
+      "has_synced": true,
+      "path": "select/14_We_Are_Not_a_Football_Team_Minus_the_Bear.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ibhola Lethu (Our Football Team)",
+      "artist": "Johnny Clegg & Savuka",
+      "has_synced": true,
+      "path": "select/15_Ibhola_Lethu_(Our_Football_Team)_Johnny_Clegg_&_Savuka.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vamos a la Playa (Factory Team Happy Mix)",
+      "artist": "Righeira",
+      "has_synced": false,
+      "path": "select/16_Vamos_a_la_Playa_(Factory_Team_Happy_Mix)_Righeira.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEAM",
+      "artist": "Yung sticky wom",
+      "has_synced": false,
+      "path": "select/pl_01_TEAM_Yung_sticky_wom.txt"
+    }
+  ]
+}
